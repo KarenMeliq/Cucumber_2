@@ -19,6 +19,8 @@ install python Python 3.10.4
 
 pip install -r requirement.txt
 
+run feature\globalsqa.feature  
+
 
 
 

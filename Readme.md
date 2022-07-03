@@ -13,13 +13,19 @@
 
 ## **To run RahulShettyAcademy project**
 
-install PyCharm IDE (Community Edition 2022.1)
+1.install python Python 3.10.4
 
-install python Python 3.10.4
+2.Install git bash
 
-run "pip install -r requirements.txt"
+2.install PyCharm IDE (Community Edition 2022.1)
 
-run "behave feature\globalsqa.feature"   
+3.install selenium by following the steps (file -> settings->
+ Project Cucumber_2 -> Python Interpreter -> click on + -> type "selenuim" in the input field -> click Install Package -> close the window -> click Ok)
+
+4.install behave by following the steps (file -> settings->
+ Project Cucumber_2 -> Python Interpreter -> click on + -> type "behave" in the input field -> click Install Package -> close the window -> click Ok)
+
+5. run "behave feature\globalsqa.feature"   
 
 
 

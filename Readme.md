@@ -17,7 +17,7 @@ install PyCharm IDE (Community Edition 2022.1)
 
 install python Python 3.10.4
 
-run "pip install -r requirement.txt"
+run "pip install -r requirements.txt"
 
 run "behave feature\globalsqa.feature"   
 

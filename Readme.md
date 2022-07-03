@@ -13,13 +13,13 @@
 
 ## **To run RahulShettyAcademy project**
 
-We used PyCharm IDE (Community Edition 2022.1)
+install PyCharm IDE (Community Edition 2022.1)
 
 install python Python 3.10.4
 
-pip install -r requirement.txt
+run "pip install -r requirement.txt"
 
-run feature\globalsqa.feature  
+run "behave feature\globalsqa.feature"   
 
 
 

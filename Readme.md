@@ -25,7 +25,7 @@
 4.install behave by following the steps (file -> settings->
  Project Cucumber_2 -> Python Interpreter -> click on + -> type "behave" in the input field -> click Install Package -> close the window -> click Ok)
 
-5. run "behave feature\globalsqa.feature"   
+5.run "behave feature\globalsqa.feature"   
 
 
 
